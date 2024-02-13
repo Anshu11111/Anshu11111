@@ -1,3 +1,4 @@
+![logo](https://github.com/Anshu11111/Anshu11111/blob/main/Green%20Professional%20Gamer%20LinkedIn%20Banner_20240214_002317_0000.png)
 <h1 align="center">Hi 👋, I'm Anshu Anand</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
